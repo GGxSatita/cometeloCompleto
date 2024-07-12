@@ -4,6 +4,15 @@
 
 export const environment = {
   production: false
+  firebaseConfig = {
+    apiKey: "AIzaSyDJs7Iw7PkWVlk6zHFi0pj5h-uzia58B4U",
+    authDomain: "cometelo-completo.firebaseapp.com",
+    projectId: "cometelo-completo",
+    storageBucket: "cometelo-completo.appspot.com",
+    messagingSenderId: "971679394305",
+    appId: "1:971679394305:web:52cbf883170219097cae00",
+    measurementId: "G-WPJVDZ41C8"
+  };
 };
 
 /*
