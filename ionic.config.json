@@ -1,0 +1,7 @@
+{
+  "name": "cometeloCompleto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
